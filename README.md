@@ -42,6 +42,6 @@ Usage: Displays images.
 
 # SCREENSHOT
 
-![Screenshot](./asset/Shot1.jpg)
-![Screenshot](./asset/Shot2.jpg)
-![Screenshot](./asset/Shot3.jpg)
+![Screenshot](./MyApp/assets/Shot1.jpg)
+![Screenshot](./MyApp/assets/Shot2.jpg)
+![Screenshot](./MyApp/assets/Shot3.jpg)
